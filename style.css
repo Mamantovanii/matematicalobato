@@ -1,3 +1,11 @@
+.cabecalho{
+    display: flex;
+    background-color: blueviolet;
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+
 body{
     font-family: Arial, sans-serif;
 }
