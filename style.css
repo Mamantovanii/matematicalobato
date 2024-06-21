@@ -4,8 +4,12 @@
     border-style: groove;
     border-color: aliceblue;
 }
+h1{ 
+    text-align: center;
+    color: black;
+    font-size: 80px;
 
-
+}
 body{
     font-family: Arial, sans-serif;
 }
