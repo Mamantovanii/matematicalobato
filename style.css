@@ -1,4 +1,5 @@
 .cabecalho{
+    padding: 0%;
     display: flex;
     background-color: blueviolet;
     border-style: groove;
